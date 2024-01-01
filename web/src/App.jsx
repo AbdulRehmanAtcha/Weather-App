@@ -64,6 +64,7 @@ function App() {
             }}
             required
             minLength={3}
+            name="city"
           />
           <button type="submit">Get Weather</button>
         </form>
